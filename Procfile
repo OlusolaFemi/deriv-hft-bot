@@ -1,1 +1,1 @@
-python deriv_bot.py
+python bot.py
